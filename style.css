@@ -1,0 +1,24 @@
+h2{
+    color: brown;  text-align: center;
+    text-transform: uppercase;
+    background-color: green;
+}
+h1{
+    font-family: "Lucida Console",
+}
+p{
+    color: blueviolet;font-family:Arial, Helvetica, sans-serif; 
+    background-color: yellowgreen;
+}
+li{
+    color: blue; font-family: "Lucida Console", font size
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif; text-align: right; color: blueviolet;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
